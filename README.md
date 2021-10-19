@@ -11,4 +11,4 @@ Image Transformation and Parameter Estimation.
 Ransac for Homography Estimation
 GANS, DNN
 
-Fianl project: Deep Hypershpere feature embedding-based knowledge distilation.
+Final project: Deep Hypershpere feature embedding-based knowledge distilation.
